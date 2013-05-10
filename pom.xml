@@ -15,6 +15,7 @@
     <module>modweb-logging-file</module>
     <module>modweb-file-appender</module>
     <module>modweb-appender</module>
+    <module>modweb-timesource</module>
   </modules>
 	<build>
 		<pluginManagement>
